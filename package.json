@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "@react-native-firebase/app": "^18.8.0",
-    "expo": "^50.0.6",
     "react-native": "^0.73.4"
   }
 }
